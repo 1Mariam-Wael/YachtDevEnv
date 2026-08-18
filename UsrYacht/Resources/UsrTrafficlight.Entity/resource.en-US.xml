@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Trafficlight" />
+			<Item Name="Columns.UsrCodeColor.Caption" Value="CodeColor" />
+			<Item Name="Columns.UsrColorValue.Caption" Value="ColorValue" />
+		</Items>
+	</Group>
+</Resources>
