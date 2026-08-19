@@ -4,6 +4,7 @@
     "Name": "UsrYachtRelatedPage",
     "ModifiedOnUtc": "\/Date(1786957962000)\/",
     "ManagerName": "AddonSchemaManager",
-    "Caption": "Yacht (Page settings)"
+    "Caption": "Yacht (Page settings)",
+    "DependsOn": []
   }
 }

@@ -1,0 +1,76 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0033cc5c-7e62-4932-a088-ff3e089149f4"
+        },
+        {
+          "SchemaColumnUId": "63e9f203-54ae-14e3-f75d-f7a8f4729ce8",
+          "Value": "#A60321"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1787175585029+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "b3af7f77-082b-19a9-d36d-86e22e2da1e7",
+          "Value": 3
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1787135414369+0300)\/"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "77653add-9662-429e-9efe-ff19f44c3f26"
+        },
+        {
+          "SchemaColumnUId": "63e9f203-54ae-14e3-f75d-f7a8f4729ce8",
+          "Value": "#D97B66"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1787175574216+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "b3af7f77-082b-19a9-d36d-86e22e2da1e7",
+          "Value": 2
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1787135416760+0300)\/"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f57fd8b1-c62b-4066-8330-19b1bb9f9ab0"
+        },
+        {
+          "SchemaColumnUId": "63e9f203-54ae-14e3-f75d-f7a8f4729ce8",
+          "Value": "#ADD0FF"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1787175570392+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "b3af7f77-082b-19a9-d36d-86e22e2da1e7",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1787135555568+0300)\/"
+        }
+      ]
+    }
+  ]
+}

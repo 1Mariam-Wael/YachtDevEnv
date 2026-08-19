@@ -1,0 +1,35 @@
+﻿{
+  "Descriptor": {
+    "UId": "51045e8b-eec1-8419-e3b9-1f1f17064ff7",
+    "Name": "UsrTrafficlight",
+    "ModifiedOnUtc": "\/Date(1787045140000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "dfbbb825-ccb6-40b6-ba10-4fdaaf7d89ef",
+      "Name": "UsrTrafficlight"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": true,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "befa78eb-b8b4-2150-e1d0-35d793c4c352",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrCodeColor",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "f5498fd5-f37f-9fb0-abb6-666d1dc14c48",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrColorValue",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      }
+    ]
+  }
+}
